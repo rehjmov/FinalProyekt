@@ -1,0 +1,6 @@
+@charset "UTF-8";
+
+@font-face {
+	font-family: 'font-mr';
+	src: url('../font/font-mrd41d.html?') format('oldIE'), url('../font/font-mr.html') format('woff'), url('../font/font-mr-2.html') format('truetype');
+}
